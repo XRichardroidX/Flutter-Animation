@@ -5,7 +5,7 @@
   <img src="download.jpg" alt="logo" width="450"  height="auto" />
   <br/>
 
-  <h3><b>FUTO/Mechatronics Project designed with FLutter/Dart</b></h3>
+  <h3><b>This is the very first implementation of the Flutter animation widget</b></h3>
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [LeaderBoard] <a name="about-project"></a>
+# 💻🚀 [Fluttering some animations with flutter 😃❤️] <a name="about-project"></a>
 
 > Awesome animations with different Flutter features all with Flutter in-built widget.
 
