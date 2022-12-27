@@ -9,7 +9,7 @@ class Item extends StatelessWidget {
       child: Stack(
         children: [
           Container(
-            padding: EdgeInsets.symmetric(horizontal: 20, vertical: 100),
+            padding: EdgeInsets.symmetric(horizontal: 15, vertical: 95),
             margin: EdgeInsets.fromLTRB(100, 0, 0, 90),
             child: Text(
               '',
@@ -24,7 +24,7 @@ class Item extends StatelessWidget {
             ),
           ),
           Container(
-            padding: EdgeInsets.symmetric(horizontal: 50, vertical: 5),
+            padding: EdgeInsets.symmetric(horizontal: 45, vertical: 0),
             margin: EdgeInsets.fromLTRB(0, 100, 10, 0),
             child: Text(
               'Animation 101',

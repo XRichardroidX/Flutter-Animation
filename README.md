@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="download.jpg" alt="logo" width="450"  height="auto" />
+  <img src="flutter.jpg" alt="logo" width="350"  height="auto" />
   <br/>
 
   <h3><b>This is the very first implementation of the Flutter animation widget</b></h3>
